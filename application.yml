@@ -1,4 +1,6 @@
-
+spring:
+  application:
+    name: User-Service-Config
 eureka:
   client:
     service-Url:
