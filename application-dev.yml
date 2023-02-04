@@ -1,5 +1,7 @@
-
+spring:
+  application:
+    name: User-Service-Config-dev
 eureka:
   client:
     service-Url:
-      defaultZone: http://localhost:8081/eureka/dev
+      defaultZone: http://localhost:8081/eureka/
